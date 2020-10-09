@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: introprog
+Implementation-Version: 1.1.4
+Specification-Vendor: LTH
+Specification-Title: introprog
+Implementation-Vendor-Id: se.lth.cs
+Specification-Version: 1.1.4
+Implementation-URL: https://github.com/lunduniversity/introprog-scalal
+ ib
+Implementation-Vendor: LTH
+
